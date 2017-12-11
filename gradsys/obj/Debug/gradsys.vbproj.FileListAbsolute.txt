@@ -1,0 +1,91 @@
+E:\flashfiles\gradsys\Backup\gradsys\bin\Debug\gradsys.exe
+E:\flashfiles\gradsys\Backup\gradsys\bin\Debug\gradsys.pdb
+E:\flashfiles\gradsys\Backup\gradsys\bin\Debug\gradsys.xml
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\ResolveAssemblyReference.cache
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\Grading_System.Form1.resources
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\Grading_System.Resources.resources
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.exe
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.xml
+E:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.pdb
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.exe
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.xml
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.pdb
+H:\flashfiles\gradsys\Backup\gradsys\bin\Debug\gradsys.exe
+H:\flashfiles\gradsys\Backup\gradsys\bin\Debug\gradsys.pdb
+H:\flashfiles\gradsys\Backup\gradsys\bin\Debug\gradsys.xml
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\ResolveAssemblyReference.cache
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\Grading_System.Form1.resources
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\Grading_System.Resources.resources
+H:\flashfiles\gradsys\Backup\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.exe
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.xml
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.pdb
+D:\compileprograms\gradsys\Backup\gradsys\bin\Debug\gradsys.exe
+D:\compileprograms\gradsys\Backup\gradsys\bin\Debug\gradsys.pdb
+D:\compileprograms\gradsys\Backup\gradsys\bin\Debug\gradsys.xml
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\ResolveAssemblyReference.cache
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\Grading_System.Form1.resources
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\Grading_System.Resources.resources
+D:\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.exe
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.xml
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.pdb
+J:\programs\compileprograms\gradsys\Backup\gradsys\bin\Debug\gradsys.exe
+J:\programs\compileprograms\gradsys\Backup\gradsys\bin\Debug\gradsys.pdb
+J:\programs\compileprograms\gradsys\Backup\gradsys\bin\Debug\gradsys.xml
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\ResolveAssemblyReference.cache
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\Grading_System.Form1.resources
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\Grading_System.Resources.resources
+J:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+D:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.exe
+D:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.xml
+D:\programs\compileprograms\gradsys\Backup\gradsys\obj\Debug\gradsys.pdb
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\gradsys.exe
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\gradsys.xml
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\gradsys.pdb
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\bin\Debug\gradsys.exe
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\bin\Debug\gradsys.pdb
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\bin\Debug\gradsys.xml
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\Grading_System.Form1.resources
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\Grading_System.Resources.resources
+C:\Users\jokenvillanueva\Desktop\for tutorial\gradsys\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\gradsys.xml
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\gradsys.pdb
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\bin\Debug\gradsys.exe
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\bin\Debug\gradsys.pdb
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\bin\Debug\gradsys.xml
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\gradsys.vbprojResolveAssemblyReference.cache
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\Grading_System.Form1.resources
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\Grading_System.Resources.resources
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+C:\Users\bigsl_000\Desktop\gradsys\gradsys\obj\Debug\gradsys.exe
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\bin\Debug\gradsys.exe.config
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\bin\Debug\gradsys.exe
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\bin\Debug\gradsys.pdb
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\bin\Debug\gradsys.xml
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\gradsys.vbprojResolveAssemblyReference.cache
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\Grading_System.Form1.resources
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\Grading_System.Resources.resources
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\gradsys.vbproj.CoreCompileInputs.cache
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\gradsys.exe
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\gradsys.xml
+E:\Laptop 2\School\Spring 2016\Visual Basic\gradsys1\gradsys\obj\Debug\gradsys.pdb
+C:\Users\BigSl\Documents\gradsys1\gradsys\bin\Debug\gradsys.exe.config
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.exe
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.xml
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.pdb
+C:\Users\BigSl\Documents\gradsys1\gradsys\bin\Debug\gradsys.exe
+C:\Users\BigSl\Documents\gradsys1\gradsys\bin\Debug\gradsys.pdb
+C:\Users\BigSl\Documents\gradsys1\gradsys\bin\Debug\gradsys.xml
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.vbprojResolveAssemblyReference.cache
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\Grading_System.Form1.resources
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\Grading_System.Resources.resources
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.vbproj.GenerateResource.Cache
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.vbproj.CoreCompileInputs.cache
+C:\Users\BigSl\Documents\gradsys1\gradsys\bin\Debug\gradsys.exe.manifest
+C:\Users\BigSl\Documents\gradsys1\gradsys\bin\Debug\gradsys.application
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.exe.manifest
+C:\Users\BigSl\Documents\gradsys1\gradsys\obj\Debug\gradsys.application
